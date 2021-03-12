@@ -73,7 +73,7 @@ namespace ariel{
         string snow;
         snow = H.at(h);
         if(x==1){
-            snow = snow + X.at(h);
+            snow = snow + X.at(x);
         }
         snow = snow + L.at(l);
         snow = snow + N.at(n);
